@@ -1,4 +1,4 @@
-# This a weather web app built with django using the openweathermap's api 
+# This is a weather web app built with django using the openweathermap's api 
 - By searching any existing city name you get the following details :
      - temparture
      - pressure

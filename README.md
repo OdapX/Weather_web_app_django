@@ -7,15 +7,19 @@
      - sunset time
      - timezone
      - country code
-- preview  
-  - Search bar :
+- Preview  
+  - Search bar :\
+  \
   ![searchbar](https://user-images.githubusercontent.com/72660683/129759037-26c71219-02f4-4ca0-a3ff-d0a3522c1e9b.PNG)
   
-  - Result of search query :
-  ![query](https://user-images.githubusercontent.com/72660683/129759342-532475b5-4699-4689-aabf-415bbd0e30e8.PNG)
+  - Result of search query :\
+  \
+      <img src="https://user-images.githubusercontent.com/72660683/129759342-532475b5-4699-4689-aabf-415bbd0e30e8.PNG" height="500px" width="800px" >
 
 
-     
+- You can get your own api at :
+    -  [Weather_Api](https://openweathermap.org/)
+ 
      
      
      
